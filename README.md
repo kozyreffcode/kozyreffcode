@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kozyreffcode
-- 👀 I’m interested in Python, Java.
+- 👀 I’m interested in Python (PyTelegramBotAPI), Java.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Android software & Telegram bots.
 - 📫 kozyreffcode@gmail.com
